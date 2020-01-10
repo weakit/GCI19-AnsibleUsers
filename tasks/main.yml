@@ -1,0 +1,6 @@
+---
+- name: Add the user 'example'
+  user:
+    name: example
+    comment: Example User
+
