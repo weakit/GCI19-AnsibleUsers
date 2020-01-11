@@ -3,4 +3,7 @@
   user:
     name: example
     comment: Example User
-
+    group: admin
+    home: /home/example
+    # the password is "password"
+    password: $1$SomeSalt$/jbIwfYCu0MxPBND2EtRH.
